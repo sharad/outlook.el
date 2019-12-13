@@ -37,7 +37,6 @@
 (require 'gnus-art)
 (require 'message)
 (require 'ietf-drums)
-(require 'subr)
 (require 'subr-x)
 
 (defun outlook-gnus-message-finalize ()
